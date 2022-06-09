@@ -1,3 +1,5 @@
+hello this is easy if we learn perfectly
+bye then see you soon 
 git clone
 git init
 git add
